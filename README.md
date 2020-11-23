@@ -12,4 +12,4 @@
 - AI Challenger 2018 细粒度情感分析赛道
 
 # 聚合页
-- https://zhuanlan.zhihu.com/p/80029681
+- https://zhuanlan.zhihu.com/p/80029681 （http://yongfeng.me/dataset/）
