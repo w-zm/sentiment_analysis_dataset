@@ -10,3 +10,6 @@
 # 相关竞赛
 - [NLPCC2013](http://tcci.ccf.org.cn/conference/2013/pages/page04_ans.html)
 - AI Challenger 2018 细粒度情感分析赛道
+
+# 聚合页
+- https://zhuanlan.zhihu.com/p/80029681
